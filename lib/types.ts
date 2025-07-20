@@ -1,5 +1,5 @@
 import { Message } from 'ai'
-import type { DefaultSession } from '@/node_modules/.pnpm/@auth+core@0.18.4/node_modules/@auth/core/types';
+//import type { DefaultSession } from '@/node_modules/.pnpm/@auth+core@0.18.4/node_modules/@auth/core/types';
 
 export interface Chat extends Record<string, any> {
   id: string
